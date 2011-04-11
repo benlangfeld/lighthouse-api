@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "lighthouse/version"
 
 Gem::Specification.new do |s|
-  s.name        = "lighthouse-api"
+  s.name        = "benlangfeld-lighthouse-api"
   s.version     = Lighthouse::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Rick Olson", "Justin Palmer"]
